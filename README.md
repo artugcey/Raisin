@@ -1,10 +1,14 @@
 # Raisin
 Nine different ML Classification & Prediction and NN Model classification .
+
 Project has a two different metrics for accuracy 
+
 Data Set : https://archive.ics.uci.edu/ml/datasets/Raisin+Dataset
 
 Data Set Information: 
+
 Abstract : Images of the Kecimen and Besni raisin varieties were obtained with CVS. A total of 900 raisins were used, including 450 from both varieties, and 7 morphological features were extracted.
+
 Images of Kecimen and Besni raisin varieties grown in Turkey were obtained with CVS. A total of 900 raisin grains were used, including 450 pieces from both varieties. These images were subjected to various stages of pre-processing and 7 morphological features were extracted. These features have been classified using three different artificial intelligence techniques.
 
 Attribute Information:
